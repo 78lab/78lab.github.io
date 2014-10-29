@@ -6,11 +6,13 @@ categories: ['jekyll']
 tags: ['jekyll']
 ---
 
-permalink 를 아래와 같이 설정
+`_layouts/posts.html` 아래와 같이 설정
 
-`---
+
+{% highlight ruby %}
+---
 layout: default
 comments: true
 permalink: /:title
----`
-
+---
+{% endhighlight %}
