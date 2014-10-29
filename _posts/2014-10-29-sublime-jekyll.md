@@ -13,7 +13,7 @@ tags: ['rails']
 단축키 :
 
 
-{% highlight  %}
+{% highlight ruby %}
 Jekyll: New post => CMD+K, CMD+P
 Jekyll: New draft => CMD+K, CMD+F
 Jekyll: Insert current date => CMD+K, CMD+D
