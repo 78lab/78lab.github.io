@@ -21,6 +21,6 @@ permalink: /:title
 
 `_config.yml` 에 다음 추가
 
-{% highlight  %}
+{% highlight ruby %}
 permalink: /blog/:title
 {% endhighlight %}
