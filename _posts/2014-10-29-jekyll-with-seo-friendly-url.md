@@ -24,3 +24,5 @@ permalink: /:title
 {% highlight ruby %}
 permalink: /blog/:title
 {% endhighlight %}
+
+결과 성공.

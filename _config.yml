@@ -8,6 +8,6 @@ twitter_username: 78lab
 github_username:  78lab
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet #kramdown
 
 permalink: /blog/:title

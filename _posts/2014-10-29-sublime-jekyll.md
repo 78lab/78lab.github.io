@@ -20,4 +20,11 @@ Jekyll: Insert current date => CMD+K, CMD+D
 Jekyll: Insert current datetime => CMD+K, CMD+T
 {% endhighlight %}
 
+다수의 유용한 스니핏 포함.
+snippet test:
+
+
+
+
+
 [sublime-jekyll]:	https://sublime.wbond.net/packages/Jekyll 
