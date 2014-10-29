@@ -1,0 +1,11 @@
+# Site settings
+title: 제니의 개발 블로그
+email: support@gmail.com
+description: > # 제니의 개발 블로그에 오신 것을 환영합니다. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://78lab.com" # the base hostname & protocol for your site
+twitter_username: 78lab
+github_username:  78lab
+
+# Build settings
+markdown: kramdown
