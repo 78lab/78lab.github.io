@@ -6,7 +6,7 @@ categories: ['rails']
 tags: ['rails']
 ---
 
-지킬 + sublime text 사용자에게 유용한 [sublime-jekyll] 패키지를 소개한다.
+지킬 + sublime text 사용자에게 유용한 [sublime-jekyll] 패키지를 소개.
 
 
 
