@@ -7,8 +7,8 @@ categories: jekyll update
 
 블로그 테스트입니다.
 
-'nginx setting'
+"nginx setting"
 
-'sudo rm /etc/nginx/sites-enabled/default'
-sudo ln -nfs /home/deployer/apps/foobar/current/config/nginx.conf /etc/nginx/sites-enabled/foobar
-sudo service nginx start
+`sudo rm /etc/nginx/sites-enabled/default`
+`sudo ln -nfs /home/deployer/apps/foobar/current/config/nginx.conf /etc/nginx/sites-enabled/foobar
+sudo service nginx start`
