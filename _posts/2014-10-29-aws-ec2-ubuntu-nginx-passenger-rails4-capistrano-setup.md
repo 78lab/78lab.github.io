@@ -9,14 +9,9 @@ tags: ['rails']
 #authorized_keys
 	cat ~/.ssh/id_rsa.pub | ssh -i ubuntu@ "cat >> ~/.ssh/authorized_keys"
 
-
-
-
 # aws ubuntu - authorized_keys backup
 
 	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCoULQjwPSVk1ShUZodAHxyd4UqZM4ui2Ca+Ya1D+GRtioEwUzaVej7F6n9HGzm4vNcWu+7MSDWVkDt9TnwD6pDye0svqA8Xj0GvznwMW8kFk0UFVI0EPTXqVeo03iA3aqtv9rbwig75aJwOxZi1kYmmdjJnjo41txJg2z75AdqNhk5dO81bc77wxlfWmKOMjUePIM+mV5mA4Es/IiWFim45WgTI164vIo5k4qvZo6D43PED32BnvIZmVTfptPHIHnUJVqwOHU8r2CHafjkcks3iTzJ9Dqlek+KFN+IHRbJO+9e0DTfQUj9HludpH14o5HbUsUKtx2x7KUMB2P7j3sN AWS_78labandroid_key
-
-
 
 # add authorized_key to server
 
@@ -59,7 +54,7 @@ tags: ['rails']
 	}
 
 # rake secret
-	export SECRET_KEY_BASE=XXXX904d90afcace62e3a4c2c97394785d67220e26f5462XXXXX
+	echo "export SECRET_KEY_BASE=XXXX904d90afcace62e3a4c2c97394785d67220e26f5462XXXXX" >> .bash_profile
 
 
 
