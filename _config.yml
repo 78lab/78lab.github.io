@@ -1,7 +1,7 @@
 # Site settings
-title: 제니의 개발 블로그
+title: 제니의 rails4 개발 블로그
 email: 
-description: > # 제니의 개발 블로그에 오신 것을 환영합니다. 
+description: > # ruby on rails 4 루비온레일즈 개발 블로그. ubuntu, 아파치(apache2), nginx, mysql 관련 개발 정보를 공유합니다.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: 
