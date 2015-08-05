@@ -32,13 +32,11 @@ tags: ['rails']
 
 #rvm 설치
 	sudo apt-get update
-	sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
-
-	sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
-	#curl -L https://get.rvm.io | bash -s stable //error
+	sudo apt-get -y upgrade
+	sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libgdbm-dev libncurses5-dev automake libtool bison libffi-dev imagemagick
 
 	gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
-	curl -L https://get.rvm.io | bash -s stable //success
+	curl -L https://get.rvm.io | bash -s stable
 
 	source ~/.rvm/scripts/rvm
 	echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
@@ -75,6 +73,7 @@ tags: ['rails']
 	/usr/lib/ruby/vendor_ruby/phusion_passenger/locations.ini
 	deploy@lab78-1:~$ passenger-config --ruby-command
 	/home/deploy/.rvm/wrappers/ruby-2.1.3/ruby
+	/usr/local/rvm/gems/ruby-2.1.3/wrappers/ruby
 
 	sudo nano /etc/nginx/nginx.conf
 	# You could also use nano if you don't like vim
@@ -133,7 +132,7 @@ tags: ['rails']
 # SSH Agent Forwarding - github repo setup
 
 	your-server$ ssh git@github.com
-	your-local$ ssh -A deploy@nc3.78lab.com 'git ls-remote git@github.com:78lab/foobar.git'
+	your-local$ ssh -A deploy@nc1.78lab.com 'git ls-remote git@github.com:78lab/foobar.git'
 
 
 # ENV SECRET_KEY_BASE setting 
@@ -158,6 +157,80 @@ tags: ['rails']
 
 #cap3 setting
 ...
+
+
+
+#memcached setup
+
+	sudo apt-get update
+
+	sudo apt-get install memcached libmemcached-dev
+
+
+#root 계정으로 setup 할 경우 스크립트
+
+	echo "* Updating system"
+	apt-get update
+	apt-get -y upgrade
+	echo "* Installing packages"
+	apt-get -y install build-essential libmagickcore-dev imagemagick libmagickwand-dev libxml2-dev libxslt1-dev git-core nginx redis-server curl nodejs htop
+	apt-get -y install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libgdbm-dev libncurses5-dev automake libtool bison libffi-dev imagemagick
+	id -u deploy &> /dev/null
+	 
+	if [ $? -ne 0 ]
+	then
+	  echo "* Creating user deploy"
+	  adduser deploy
+	  echo "* Adding user deploy to sudo group"
+	  adduser deploy sudo
+	else
+	  echo "* deploy user already exists"
+	fi
+	 
+	echo "* Installing rvm"
+	. /etc/profile.d/rvm.sh &> /dev/null
+	 
+	type rvm &> /dev/null
+	 
+	if [ $? -ne 0 ]
+	then
+	  curl -L https://get.rvm.io | bash -s
+	  echo "source /etc/profile.d/rvm.sh" >> /etc/bash.bashrc
+	  . /etc/profile.d/rvm.sh &> /dev/null
+	else
+	  echo "* rvm already installed"
+	fi
+	 
+	cat /etc/environment | grep RAILS_ENV
+	if [ $? -ne 0 ]
+	then
+	  echo "RAILS_ENV=production" >> /etc/environment
+	fi
+	 
+	echo "* Adding a gemrc file to deploy user"
+	echo -e "verbose: true\nbulk_threshold: 1000\ninstall: --no-ri --no-rdoc --env-shebang\nupdate: --no-ri --no-rdoc --env-shebang" > /home/deploy/.gemrc
+	chmod 644 /home/deploy/.gemrc
+	chown deploy /home/deploy/.gemrc
+	chgrp deploy  /home/deploy/.gemrc
+	 
+	 
+	echo "* Install ruby version 2.0.0"
+	ruby -v &> /dev/null
+	if [ $? -ne 0 ]
+	then
+	  rvm install 2.1.3
+	else
+	  echo "* Ruby already installed"
+	fi
+	 
+	echo "* Add user deploy to rvm group"
+	usermod -a -G rvm deploy
+	 
+	rvm --default use 2.1.3
+	ruby -v
+	echo "* DONE *"
+	echo "* Rebooting system *"
+	reboot
 
 
 
