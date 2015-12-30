@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sublime jekyll 패키지 
+title: sublime jekyll package 
 published: True
 categories: ['rails']
 tags: ['rails']

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ubuntu mysql 원격 접속 설정
+title: ubuntu mysql remote access
 published: True
 categories: ['rails']
 tags: ['rails']
