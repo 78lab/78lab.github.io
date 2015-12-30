@@ -7,7 +7,7 @@ permalink: /terms/
 ##Emotimemo Terms and Conditions of Use
 
 PLEASE READ THE FOLLOWING TERMS OF SERVICE CAREFULLY. BY USING THE SERVICES,” YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE FOLLOWING TERMS AND CONDITIONS, INCLUDING THE 
-[PRIVACY POLICY]: http://78lab.github.io/privacy.html (COLLECTIVELY, THESE “TERMS”). You must accept and comply with these terms as a condition to you access and use of the Services. If you are not eligible, or do not agree to these Terms, then please do not use the Services.
+[PRIVACY POLICY](http://78lab.github.io/privacy)(COLLECTIVELY, THESE “TERMS”). You must accept and comply with these terms as a condition to you access and use of the Services. If you are not eligible, or do not agree to these Terms, then please do not use the Services.
 
 #1. Terms
 
@@ -15,37 +15,37 @@ By accessing this web site, you are agreeing to be bound by these web site Terms
 
 #2. Use License
 
-Permission is granted to temporarily download one copy of the materials (information or software) on mycompany's web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+Permission is granted to temporarily download one copy of the materials (information or software) on Emotimemo's web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 modify or copy the materials;
 use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-attempt to decompile or reverse engineer any software contained on mycompany's web site;
+attempt to decompile or reverse engineer any software contained on Emotimemo's web site;
 remove any copyright or other proprietary notations from the materials; or
 transfer the materials to another person or "mirror" the materials on any other server.
-This license shall automatically terminate if you violate any of these restrictions and may be terminated by mycompany at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by Emotimemo at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
 #3. Disclaimer
 
-The materials on mycompany's web site are provided "as is". mycompany makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, mycompany does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
+The materials on Emotimemo's web site are provided "as is". Emotimemo makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Emotimemo does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
 
 #4. Limitations
 
-In no event shall mycompany or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on mycompany's Internet site, even if mycompany or a mycompany authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall Emotimemo or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Emotimemo's Internet site, even if Emotimemo or a Emotimemo authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 #5. Revisions and Errata
 
-The materials appearing on mycompany's web site could include technical, typographical, or photographic errors. mycompany does not warrant that any of the materials on its web site are accurate, complete, or current. mycompany may make changes to the materials contained on its web site at any time without notice. mycompany does not, however, make any commitment to update the materials.
+The materials appearing on Emotimemo's web site could include technical, typographical, or photographic errors. Emotimemo does not warrant that any of the materials on its web site are accurate, complete, or current. Emotimemo may make changes to the materials contained on its web site at any time without notice. Emotimemo does not, however, make any commitment to update the materials.
 
 #6. Links
 
-mycompany has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by mycompany of the site. Use of any such linked web site is at the user's own risk.
+Emotimemo has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Emotimemo of the site. Use of any such linked web site is at the user's own risk.
 
 #7. Site Terms of Use Modifications
 
-mycompany may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+Emotimemo may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
 
 #8. Governing Law
 
-Any claim relating to mycompany's web site shall be governed by the laws of the State of Seoul without regard to its conflict of law provisions.
+Any claim relating to Emotimemo's web site shall be governed by the laws of the State of Seoul without regard to its conflict of law provisions.
 
 General Terms and Conditions applicable to Use of a Web Site.
 
