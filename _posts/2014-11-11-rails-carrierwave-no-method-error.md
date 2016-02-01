@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rails carrierwave no method error
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ubuntu nfs setup
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rails4 strftime format
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

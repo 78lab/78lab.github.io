@@ -1,7 +1,7 @@
 ---
 layout: post
 title: aws ec2 ubuntu nginx passenger rails4 capistrano setup
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

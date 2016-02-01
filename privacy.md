@@ -10,23 +10,23 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 #What personal information do we collect from the people that visit our blog, website or app?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address, phone number or other details to help you with your experience.
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address, phone number, contacts or other details to help you with your experience.
 
 #When do we collect information?
 
-We collect information from you when you register on our site or enter information on our site.
+We collect information from you when you register or login on our site (or app) or enter information on our site (or app) or tap "start' on our site (or app) or create,update,delete,see a memo on our site (or app).
 
 
 #How do we use your information?
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
--To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
--To improve our website in order to better serve you.
--To allow us to better service you in responding to your customer service requests.
--To administer a contest, promotion, survey or other site feature.
--To quickly process your transactions.
--To send periodic emails regarding your order or other products and services.
+ - To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+ - To improve our website in order to better serve you.
+ - To allow us to better service you in responding to your customer service requests.
+ - To administer a contest, promotion, survey or other site feature.
+ - To quickly process your transactions.
+ - To send periodic emails regarding your order or other products and services.
 
 #How do we protect visitor information?
 

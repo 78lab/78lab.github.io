@@ -1,7 +1,7 @@
 ---
 layout: post
 title: remove file git repo
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

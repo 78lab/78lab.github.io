@@ -1,7 +1,7 @@
 ---
 layout: post
 title: redis resque setting on ubuntu 12.04
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ubuntu mysql remote access
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

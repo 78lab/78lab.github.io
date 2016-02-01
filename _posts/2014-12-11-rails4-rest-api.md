@@ -3,7 +3,7 @@ layout: post
 title: rails4 rest api
 categories: ['rails']
 tags: ['rails']
-published: True
+published: false
 ---
 
 it depends on your preference and needs.

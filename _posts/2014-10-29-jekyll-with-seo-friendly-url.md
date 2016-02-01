@@ -1,7 +1,7 @@
 ---
 layout: post
 title: jekyll with SEO friendly url
-published: True
+published: false
 categories: ['jekyll']
 tags: ['jekyll']
 ---

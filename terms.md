@@ -45,7 +45,7 @@ Emotimemo may revise these terms of use for its web site at any time without not
 
 #8. Governing Law
 
-Any claim relating to Emotimemo's web site shall be governed by the laws of the State of Seoul without regard to its conflict of law provisions.
+Any claim relating to Emotimemo's web site shall be governed by the laws of the State of California, United States without regard to its conflict of law provisions.
 
 General Terms and Conditions applicable to Use of a Web Site.
 

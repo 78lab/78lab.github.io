@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ncloud (ubuntu 12.04 LTS) nginx passenger rails4 capistrano3 setup
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---

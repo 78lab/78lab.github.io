@@ -3,7 +3,7 @@ layout: post
 title: rails4 cap branch
 categories: ['rails']
 tags: ['rails']
-published: True
+published: false
 ---
 
 	cap production deploy -s branch=my-branch

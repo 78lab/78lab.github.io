@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sublime jekyll package 
-published: True
+published: false
 categories: ['rails']
 tags: ['rails']
 ---
