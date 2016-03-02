@@ -8,6 +8,6 @@ twitter_username:
 github_username: 
 
 # Build settings
-markdown: redcarpet #kramdown
+markdown: kramdown #redcarpet
 
 permalink: /blog/:title
