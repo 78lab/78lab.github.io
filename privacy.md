@@ -14,7 +14,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 # When do we collect information?
 
-We collect information from you when you register or login on our site (or app) or enter information on our site (or app) or tap "Continue' on our site (or app) or create,update,delete,see a memo on our site (or app).
+We collect information from you when you register or login on our site (or app) or enter information on our site (or app) or tap "Continue' on our app or start our app or create,update,delete,see a memo on our site (or app).
 
 
 # How do we use your information?
