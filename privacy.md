@@ -4,17 +4,17 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-## Emotimemo Privacy Policy
+## JennyHoney Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 # What personal information do we collect from the people that visit our blog, website or app?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address, phone number, contacts or other details to help you with your experience.
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address, phone number or other details to help you with your experience.
 
 # When do we collect information?
 
-We collect information from you when you register or login on our site (or app) or enter information on our site (or app) or tap "Continue' on our app or start our app or create,update,delete,see a memo on our site (or app).
+We collect information from you when you register or login on our site (or app) or enter information on our site (or app) or tap login on our app or start our app or create,update,delete,see a post on our site (or app).
 
 
 # How do we use your information?

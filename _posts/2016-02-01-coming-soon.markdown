@@ -1,6 +1,6 @@
 ---
-title: Emotimemo apps are coming soon.
+title: The blog is coming soon.
 layout: post
 ---
 
-## iOS and android apps are coming soon.
+## The blog is coming soon.

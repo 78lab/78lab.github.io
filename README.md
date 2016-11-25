@@ -1,2 +1,2 @@
-# Emotimemo blog
+# JennyHoney blog
 
