@@ -1,5 +1,5 @@
 ---
-title: Emotimemo app on Google Play Store.
+title: JennyHoney app on Google Play Store.
 layout: post
 published: false
 ---
