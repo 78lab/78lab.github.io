@@ -2,6 +2,55 @@
     "station":
     [
      {
+     "name": "예수찬양",
+     "streamURL": "http://dudghs64.inlive.co.kr",
+     "imageURL": "",
+     "desc": "예수님을 찬양합니다.",
+     "longDesc": "항상 예수찬양 들어주셔서 감사합니다."
+     },
+     {
+     "name": "위드CCM",
+     "streamURL": "http://withccm.inlive.co.kr",
+     "imageURL": "",
+     "desc": "함께 찬양해요.",
+     "longDesc": "항상 위드CCM 들어주셔서 감사합니다."
+     },
+     {
+     "name": "축복의통로",
+     "streamURL": "http://rachel402.inlive.co.kr",
+     "imageURL": "",
+     "desc": "찬양과 함께 축복의 통로",
+     "longDesc": "항상 축복의통로 들어주셔서 감사합니다."
+     },
+     {
+     "name": "은혜의강가",
+     "streamURL": "http://jesuslove.inlive.co.kr",
+     "imageURL": "",
+     "desc": "은혜로운 찬양과 함께",
+     "longDesc": "항상 은혜의강가 들어주셔서 감사합니다."
+     },
+     {
+     "name": "CBS 표준FM 98.1",
+     "streamURL": "http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8",
+     "imageURL": "",
+     "desc": "CBS 표준FM 98.1 입니다.",
+     "longDesc": "항상 CBS981 들어주셔서 감사합니다."
+     },
+     {
+     "name": "CBS 음악FM 93.9",
+     "streamURL": "http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
+     "imageURL": "",
+     "desc": "CBS 음악FM 93.9 입니다.",
+     "longDesc": "항상 CBS 들어주셔서 감사합니다."
+     },
+     {
+     "name": "JOY4YOU",
+     "streamURL": "http://aac.cbs.co.kr/cbscmc/_definst_/cbscmc_96k.stream/playlist.m3u8",
+     "imageURL": "",
+     "desc": "JOY4YOU 입니다.",
+     "longDesc": "항상 JOY4YOU 들어주셔서 감사합니다."
+     },
+     {
      "name": "CBN Southern Gospel",
      "streamURL": "http://cbnradio.streamguys1.com/southern-gospel-128K",
      "imageURL": "",
