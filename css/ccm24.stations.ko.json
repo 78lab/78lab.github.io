@@ -4,106 +4,106 @@
      {
      "name": "예수찬양",
      "streamURL": "http://dudghs64.inlive.co.kr",
-     "imageURL": "",
-     "desc": "예수님을 찬양합니다.",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg9.jpg",
+     "desc": "예수님을 찬양합니다",
      "longDesc": "항상 예수찬양 들어주셔서 감사합니다."
      },
      {
      "name": "위드CCM",
      "streamURL": "http://withccm.inlive.co.kr",
-     "imageURL": "",
-     "desc": "함께 찬양해요.",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg10.jpg",
+     "desc": "함께 찬양해요",
      "longDesc": "항상 위드CCM 들어주셔서 감사합니다."
      },
      {
      "name": "축복의통로",
      "streamURL": "http://rachel402.inlive.co.kr",
-     "imageURL": "",
-     "desc": "찬양과 함께 축복의 통로",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg11.jpg",
+     "desc": "매일 찬양과 함께 축복 받으세요",
      "longDesc": "항상 축복의통로 들어주셔서 감사합니다."
      },
      {
      "name": "은혜의강가",
      "streamURL": "http://jesuslove.inlive.co.kr",
-     "imageURL": "",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg12.jpg",
      "desc": "은혜로운 찬양과 함께",
      "longDesc": "항상 은혜의강가 들어주셔서 감사합니다."
      },
      {
      "name": "CBS 표준FM 98.1",
      "streamURL": "http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8",
-     "imageURL": "",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg13.jpg",
      "desc": "CBS 표준FM 98.1 입니다.",
-     "longDesc": "항상 CBS981 들어주셔서 감사합니다."
+     "longDesc": "항상 CBS 들어주셔서 감사합니다."
      },
      {
      "name": "CBS 음악FM 93.9",
      "streamURL": "http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
-     "imageURL": "",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg14.jpg",
      "desc": "CBS 음악FM 93.9 입니다.",
      "longDesc": "항상 CBS 들어주셔서 감사합니다."
      },
      {
      "name": "JOY4YOU",
      "streamURL": "http://aac.cbs.co.kr/cbscmc/_definst_/cbscmc_96k.stream/playlist.m3u8",
-     "imageURL": "",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg15.jpg",
      "desc": "JOY4YOU 입니다.",
      "longDesc": "항상 JOY4YOU 들어주셔서 감사합니다."
      },
      {
-     "name": "CBN Southern Gospel",
+     "name": "CBN Southern 가스펠",
      "streamURL": "http://cbnradio.streamguys1.com/southern-gospel-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Southern Gospel..",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg1.jpg",
+     "desc": "CBN Southern 가스펠",
      "longDesc": "Thank you for listening to CBN Southern Gospel.."
      },
      {
      "name": "CBN Selah",
      "streamURL": "http://cbnradio.streamguys1.com/instrumental-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Selah",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg2.jpg",
+     "desc": "CBN 경음악 찬양",
      "longDesc": "Thank you for listening to CBN Selah"
      },
      {
      "name": "CBN Praise",
      "streamURL": "http://cbnradio.streamguys1.com/praise-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Praise",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg3.jpg",
+     "desc": "CBN 찬송 방송",
      "longDesc": "Thank you for listening to CBN Praise"
      },
      {
      "name": "CBN Country",
      "streamURL": "http://cbnradio.streamguys1.com/country-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Country",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg4.jpg",
+     "desc": "CBN 컨트리 뮤직 방송",
      "longDesc": "Thank you for listening to CBN Country"
      },
      {
      "name": "CBN Contemporary",
      "streamURL": "http://cbnradio.streamguys1.com/contemporary-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Contemporary",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg5.jpg",
+     "desc": "CBN 현대 음악 찬양 방송",
      "longDesc": "Thank you for listening to CBN Contemporary"
      },
      {
      "name": "CBN Gospel",
      "streamURL": "http://cbnradio.streamguys1.com/gospel-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Gospel",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg6.jpg",
+     "desc": "CBN 가스펠",
      "longDesc": "Thank you for listening to CBN Gospel"
      },
      {
      "name": "CBN Christmas",
      "streamURL": "http://cbnradio.streamguys1.com/christmas-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Christmas",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg7.jpg",
+     "desc": "CBN 크리스마스 캐럴",
      "longDesc": "Thank you for listening to CBN Christmas"
      },
      {
      "name": "CBN Country Christmas",
      "streamURL": "http://cbnradio.streamguys1.com/country-christmas-128K",
-     "imageURL": "",
-     "desc": "Enjoy CBN Country Christmas",
+     "imageURL": "http://78lab.github.io/assets/ccm-bg8.jpg",
+     "desc": "CBN 컨트리 크리스마스",
      "longDesc": "Thank you for listening to CBN Country Christmas"
      }
     ]
