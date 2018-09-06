@@ -2,6 +2,13 @@
     "station":
     [
      {
+     "name": "극동방송",
+     "streamURL": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8",
+     "imageURL": "http://78lab.github.io/assets/febc-logo.jpg",
+     "desc": "방송으로 그리스도를 전세계에! FEBC 극동방송 입니다.",
+     "longDesc": "항상 FEBC 극동방송 들어주셔서 감사합니다."
+     },
+     {
      "name": "예수찬양",
      "streamURL": "http://dudghs64.inlive.co.kr",
      "imageURL": "http://78lab.github.io/assets/ccm-bg9.jpg",

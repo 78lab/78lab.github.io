@@ -14,4 +14,7 @@ Google Play : https://play.google.com/store/apps/details?id=com.lab78.ccmplayer
 
 Share CCM24 : https://ccm-24.app.link/share
 
-ver 1.0.2 coming soon.
+[release note]
+
+ver 1.0.3
+ver 1.0.2 
