@@ -8,27 +8,7 @@
      "desc": "방송으로 그리스도를 전세계에! FEBC 극동방송 입니다.",
      "longDesc": "항상 FEBC 극동방송 들어주셔서 감사합니다."
      },
-     {
-     "name": "예수찬양",
-     "streamURL": "http://dudghs64.inlive.co.kr",
-     "imageURL": "http://78lab.github.io/assets/ccm-bg9.jpg",
-     "desc": "예수님을 찬양합니다",
-     "longDesc": "항상 예수찬양 들어주셔서 감사합니다."
-     },
-     {
-     "name": "위드CCM",
-     "streamURL": "http://withccm.inlive.co.kr",
-     "imageURL": "http://78lab.github.io/assets/ccm-bg11.jpg",
-     "desc": "매일 찬양과 함께 축복 받으세요",
-     "longDesc": "항상 위드CCM 들어주셔서 감사합니다."
-     },
-     {
-     "name": "주님의숲",
-     "streamURL": "http://godqrwnsms.inlive.co.kr",
-     "imageURL": "http://78lab.github.io/assets/ccm-bg12.jpg",
-     "desc": "은혜로운 찬양과 함께",
-     "longDesc": "항상 주님의숲 찬양을 들어주셔서 감사합니다."
-     },
+
      {
      "name": "CBS 표준FM 98.1",
      "streamURL": "http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8",
