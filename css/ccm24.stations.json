@@ -6,56 +6,56 @@
      "streamURL": "http://cbnradio.streamguys1.com/southern-gospel-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg1.jpg",
      "desc": "Enjoy CBN Southern Gospel..",
-     "longDesc": "Thank you for listening to CBN Southern Gospel.."
+     "longDesc": "cbn-southern-gospel"
      },
      {
      "name": "CBN Selah",
      "streamURL": "http://cbnradio.streamguys1.com/instrumental-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg2.jpg",
      "desc": "Enjoy CBN Selah",
-     "longDesc": "Thank you for listening to CBN Selah"
+     "longDesc": "cbn-instrumental"
      },
      {
      "name": "CBN Praise",
      "streamURL": "http://cbnradio.streamguys1.com/praise-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg3.jpg",
      "desc": "Enjoy CBN Praise",
-     "longDesc": "Thank you for listening to CBN Praise"
+     "longDesc": "cbn-praise"
      },
      {
      "name": "CBN Country",
      "streamURL": "http://cbnradio.streamguys1.com/country-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg4.jpg",
      "desc": "Enjoy CBN Country",
-     "longDesc": "Thank you for listening to CBN Country"
+     "longDesc": "cbn-country"
      },
      {
      "name": "CBN Contemporary",
      "streamURL": "http://cbnradio.streamguys1.com/contemporary-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg5.jpg",
      "desc": "Enjoy CBN Contemporary",
-     "longDesc": "Thank you for listening to CBN Contemporary"
+     "longDesc": "cbn-contemporary"
      },
      {
      "name": "CBN Gospel",
      "streamURL": "http://cbnradio.streamguys1.com/gospel-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg6.jpg",
      "desc": "Enjoy CBN Gospel",
-     "longDesc": "Thank you for listening to CBN Gospel"
+     "longDesc": "cbn-gospel"
      },
      {
      "name": "CBN Christmas",
      "streamURL": "http://cbnradio.streamguys1.com/christmas-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg7.jpg",
      "desc": "Enjoy CBN Christmas",
-     "longDesc": "Thank you for listening to CBN Christmas"
+     "longDesc": "cbn-christmas"
      },
      {
      "name": "CBN Country Christmas",
      "streamURL": "http://cbnradio.streamguys1.com/country-christmas-128K",
      "imageURL": "http://78lab.github.io/assets/ccm-bg8.jpg",
      "desc": "Enjoy CBN Country Christmas",
-     "longDesc": "Thank you for listening to CBN Country Christmas"
+     "longDesc": "cbn-country-christmas"
      }
     ]
 }
