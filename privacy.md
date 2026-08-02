@@ -4,63 +4,216 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-## Privacy policy
-This Privacy Policy governs the manner in which 78LAB Inc. collects, uses, maintains and discloses information collected from users of this application / website.
+# Privacy Policy
 
-# Account creation
-This application / website is aimed at people over the age of 3.
+**Last updated: August 2, 2026**
 
-This application / website allows you to create an account. All the information given when creating an account will be stored in our database and will not be shared with third-party services.
+78LAB Inc. ("we", "our", or "us") respects your privacy and is committed to protecting your personal information.
 
-Collected information will be used in order to administer your account, to fulfill orders and to respond to customer service requests.
+This Privacy Policy explains how information is collected, used, and shared when you use our mobile application and related services (the "Service").
 
-It may also be used in order to send you commercial information by e-mail about our products or products from other partner companies (offers will only be sent by our company, your e-mail address and other personal information will not be disclosed to these partner companies) and to display content based upon your interests.
+By using the Service, you agree to the practices described in this Privacy Policy.
 
-You may opt-out of receiving our newsletter or marketing emails and/or offers for products from partner companies by following the unsubscribe instructions included in each newsletter or marketing email, or via your account management page.
+---
 
-We may disclose your personal information only :
-as required by law, such as to comply with a subpoena, or similar legal process.
-when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-if Geolives S.A. is involved in a merger, acquisition, or sale of all or a portion of its assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+# 1. Information We Collect
 
-# Collecting device information
-Device information including (but not limited to) mobile device telephone number, Device identifier (UDID), MAC address, SIM card number may be collected for licences management / software protection.
+Our application does not require users to create an account and does not collect personal information such as your name, email address, or password.
 
-# Location services
-This application / website accesses your location in order to allow you to locate yourself on the map and to provide relevant data around your location.
+However, certain information may be automatically collected by third-party services used in our application.
 
-It will collect location information (IP address information, GPS location, Wi-fi routers closest to you, cell IDs of the towers closest to you, Bluetooth beacon devices closest to you, ...) only for these purposes.
+The collected information may include:
 
-# Advertising
-This application / website includes ads from the Ad Mob service.
+- Device information
+- Application usage information
+- Crash and diagnostic information
+- Advertising identifiers
+- Approximate location information (only when required for app functionality)
+- Push notification information
 
-We provide Ad Mob with information about the way you use our app so they can advertise products and services that are more likely to be relevant to you.
+---
 
-Ad networks are companies that manage the advertising process on this and many other apps. For that reason, they may know information about you based on the way you use all the apps where they provide advertising services.
+# 2. How We Use Collected Information
 
-They compile this information to paint a picture of which types of ads you are likely to be interested in.
+We use collected information for the following purposes:
 
-You can find out more about how Ad Mob uses your personal information here: http://www.google.co.uk/intl/en/policies/privacy/
+- To provide and improve application functionality
+- To analyze application usage and performance
+- To identify and fix application errors and crashes
+- To provide relevant advertisements
+- To deliver push notifications when enabled by users
+- To improve user experience and service reliability
 
-# Analytics
-This application / website includes Google Analytics measuring tools. We want to learn how you use the app so we can improve it in future updates.
+---
 
-You can find out more about how Google Analytics uses your personal information here: http://www.google.co.uk/intl/en/policies/privacy/
+# 3. Third-Party Services
 
-# Automatic bug reporting
-The application uses an automatic bug reporting feature via the ACRA library - https://github.com/ACRA/acra - which provides us with detailed information when the application crashes.
+Our application uses third-party services that may collect information used to identify your device or analyze usage.
 
-Bug reports may include (but are not limited to): mobile device telephone number, Device identifier (UDID) and other device information, MAC address, OS version, log files, phone numbers of contacts used with the application, messages sent or processed by the application, location data.
+These services include:
 
-# Changes to this privacy policy
-Geolives S.A. reserves the right to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes in order to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+## Firebase Analytics
 
-# Your acceptance of these terms
-By using the Service, you accept this policy. If you do not agree to this policy, please do not use our Service. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Firebase Analytics helps us understand how users interact with our application and improve our services.
 
-# Contacting us
-If you have any questions about this Privacy Policy, the practices of this website / application, or your dealings with this site, please contact us at support@78lab.com
+Information collected may include:
 
-78LAB Inc.
+- App usage events
+- Device information
+- Approximate location information
+- Application performance data
 
-Last update : 2018-04-18
+Privacy Policy:
+
+https://firebase.google.com/support/privacy
+
+
+---
+
+## Firebase Crashlytics
+
+Firebase Crashlytics helps us identify and fix application crashes and technical issues.
+
+Information collected may include:
+
+- Device information
+- Operating system information
+- Application version
+- Crash logs
+- Diagnostic information
+
+Privacy Policy:
+
+https://firebase.google.com/support/privacy
+
+
+---
+
+## OneSignal Push Notifications
+
+We use OneSignal to provide push notification services.
+
+OneSignal may collect information such as:
+
+- Device identifiers
+- Push notification tokens
+- Notification interaction data
+
+Users can disable push notifications at any time through their device settings.
+
+Privacy Policy:
+
+https://onesignal.com/privacy_policy
+
+
+---
+
+## Google AdMob
+
+We use Google AdMob to display advertisements in our application.
+
+AdMob may collect information such as:
+
+- Advertising identifier
+- Device information
+- Usage information
+- Approximate location information
+
+This information is used to provide and measure personalized or non-personalized advertising.
+
+Privacy Policy:
+
+https://policies.google.com/privacy
+
+
+---
+
+# 4. Location Information
+
+Some features of our application may require access to location information.
+
+When location permission is granted by the user, we may collect location information to provide location-based functionality.
+
+Location information is not collected when permission is not granted.
+
+Users can disable location access at any time through their device settings.
+
+---
+
+# 5. Advertising
+
+Our application displays advertisements provided by Google AdMob.
+
+Google may use information collected through advertising technologies to provide relevant advertisements and measure advertising performance.
+
+Users may manage advertising preferences through their Google account settings.
+
+More information:
+
+https://policies.google.com/technologies/ads
+
+---
+
+# 6. Data Retention
+
+We do not create or maintain user accounts and do not store personal information on our own servers.
+
+Information processed through third-party services such as Firebase, OneSignal, and Google AdMob is retained according to each service provider's own privacy policies and retention policies.
+
+We retain only the information necessary to provide, maintain, and improve the Service.
+
+When information is no longer required, it is deleted or anonymized where applicable.
+
+---
+
+# 7. Data Deletion
+
+Because our application does not require account registration and does not store personal information on our own servers, there is no user account data stored directly by 78LAB Inc.
+
+If you have questions about data deletion or wish to request deletion of information processed by our services, please contact us:
+
+**Email:** support@78lab.com
+
+We will review your request and provide assistance regarding deletion of data under our control.
+
+For data collected by third-party providers, users may need to request deletion directly from those providers according to their privacy policies.
+
+---
+
+# 8. Data Security
+
+We take reasonable measures to protect information processed through our application.
+
+However, please note that no method of electronic transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+---
+
+# 9. Children's Privacy
+
+Our Service is not directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children.
+
+If you believe that a child has provided personal information, please contact us and we will take appropriate action.
+
+---
+
+# 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be posted on this page with an updated revision date.
+
+We encourage users to review this Privacy Policy periodically.
+
+---
+
+# 11. Contact Us
+
+If you have any questions regarding this Privacy Policy or our privacy practices, please contact us:
+
+**78LAB Inc.**
+
+Email:
+
+support@78lab.com
